@@ -154,7 +154,7 @@
                 figure
                   img(src='@/assets/curso/temas/t5/tarjeta03_5.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
-                h4 Fallas de hardware o software
+                h4 Fallas de <i>hardware o software</i>
                 p Corresponden a problemas técnicos que afectan la disponibilidad, la integridad o el funcionamiento normal de los sistemas.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
@@ -437,6 +437,7 @@
                 h4.card-title.text-center.mb-4 Escalas cualitativas
                 p.text-center Emplean categorías descriptivas para expresar el nivel de riesgo. Son apropiadas cuando no se dispone de información cuantitativa suficiente y la evaluación se fundamenta en la experiencia o el juicio técnico.
           //- Fin Tarjetas
+      p(data-aos="fade-left") Las escalas cualitativas pueden utilizar diferentes niveles de clasificación.
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
           .pt-3.pb-5.px-5

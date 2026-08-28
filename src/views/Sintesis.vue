@@ -4,7 +4,7 @@
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
       .row.mb-5
         .col-12.ps-3(style="border-left: 10px solid #39A900;") 
-          h3.mb-1 Generación de códigos de software con inteligencia artificial
+          h3.mb-1 Generación de códigos de <i>software</i> con inteligencia artificial
           p.mb-0 
             | Síntesis:
             | redacción de informes y planeación de matriz de riesgo en seguridad

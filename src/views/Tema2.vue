@@ -431,28 +431,28 @@
                               img(src='@/assets/curso/temas/t2/tarjeta07_1.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Respalda la gestión operativa
-                            p.text-start Sirve como evidencia del cumplimiento de las actividades contratadas y de las rondas realizadas.
+                            p.text-center Sirve como evidencia del cumplimiento de las actividades contratadas y de las rondas realizadas.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto
                               img(src='@/assets/curso/temas/t2/tarjeta07_2.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Facilita la trazabilidad de los hechos
-                            p.text-start La secuencia cronológica de la información favorece los procesos de auditoría, investigación y seguimiento.
+                            p.text-center La secuencia cronológica de la información favorece los procesos de auditoría, investigación y seguimiento.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto
                               img(src='@/assets/curso/temas/t2/tarjeta07_3.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Fortalece la credibilidad institucional
-                            p.text-start Un informe técnico, claro y objetivo transmite transparencia, disciplina y profesionalismo.
+                            p.text-center Un informe técnico, claro y objetivo transmite transparencia, disciplina y profesionalismo.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto
                               img(src='@/assets/curso/temas/t2/tarjeta07_4.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Apoya la toma de decisiones
-                            p.text-start La información registrada orienta la implementación de acciones preventivas y correctivas.
+                            p.text-center La información registrada orienta la implementación de acciones preventivas y correctivas.
                     .col-lg-4.order-lg-1.d-none.d-lg-block
                         figure
                           img(src='@/assets/curso/temas/t2/img11.png', style="width: 300px", data-aos="zoom-in").m-auto

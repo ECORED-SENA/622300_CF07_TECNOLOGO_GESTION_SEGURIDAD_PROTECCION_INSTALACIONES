@@ -338,23 +338,23 @@
                         th(style="width: 45%") Instalación cerrada
                     tbody
                       tr
-                        td Acceso
+                        td <b>Acceso</b>
                         td Flujo de personas más libre y control mediante puntos parciales.
                         td Acceso restringido con credencialización y controles estrictos.
                       tr
-                        td Vigilancia
+                        td <b>Vigilancia</b>
                         td Mayor necesidad de monitoreo general mediante CCTV y patrullajes.
                         td Mayor énfasis en el control de accesos y la protección de áreas críticas.
                       tr
-                        td Vulnerabilidades más frecuentes
+                        td <b>Vulnerabilidades más frecuentes</b>
                         td Hurtos oportunistas, aglomeraciones y actos de vandalismo.
                         td Sabotaje, acceso no autorizado y afectación de áreas sensibles.
                       tr
-                        td Controles recomendados
+                        td <b>Controles recomendados</b>
                         td Diseño ambiental, patrullaje dinámico y sistemas de videovigilancia.
                         td Control de accesos, registros de ingreso y salida, cerramientos y medidas de autenticación.
                       tr
-                        td Ejemplos
+                        td <b>Ejemplos</b>
                         td Plazas comerciales, parques y estacionamientos públicos.
                         td Centros de datos, bodegas de materiales críticos y salas de servidores.
             //- FinTabla

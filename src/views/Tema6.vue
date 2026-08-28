@@ -122,8 +122,6 @@
         .col-lg-10.bg-color-2.p-5.rounded-4
           h5 Ejemplo
           p En un edificio empresarial se identifica una vulnerabilidad en los accesos vehiculares. La evaluación inicial arroja los siguientes resultados:
-          p.fw-bold R = P × I
-          p.fw-bold R = 4 × 5 = 20
           //- Inicio Tabla
           .row.justify-content-center.mb-5
             .col-md-auto.col-lg-12
@@ -234,7 +232,7 @@
               h4.mb-2 Matriz de riesgos aplicada a la seguridad privada
               p.mb-0 <b>Se invita a leer el documento Matriz de riesgos aplicada a la seguridad privada</b>, donde se aborda el procedimiento para identificar, evaluar, priorizar y controlar los riesgos en operaciones de seguridad privada.
             .mt-3.mt-lg-0.ps-lg-4            
-              a.btn.btn-custom-download.w-buttons.d-flex.align-items-center.justify-content-center.p-3(:href="obtenerLink('/downloads/Lectura-Programas-técnicos-para-la-prevención-sanitaria.docx')" target="_blank")
+              a.btn.btn-custom-download.w-buttons.d-flex.align-items-center.justify-content-center.p-3(:href="obtenerLink('/downloads/Anexos/Anexo_Matriz_Riesgos_Aplicada_Seguridad_Privada.pdf')" target="_blank")
                 span.fw-bold.me-2.text-white Descargar
                 i.fas.fa-file-download.text-white
       //- Título nivel 3 - Imagen
