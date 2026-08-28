@@ -341,7 +341,7 @@
       //- Título nivel 4 
       .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
-          :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/intro/img9.png')})` }")
+          :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t2/img9.png')})` }")
         .bloque-texto-g__texto.p-4
           p.mb-0 Una vez recopilada la información, se procede a la redacción del informe. Este debe elaborarse con un lenguaje técnico, objetivo y cronológico, evitando opiniones personales, interpretaciones subjetivas o expresiones coloquiales. De acuerdo con la <b>NTC 1486:2018</b>, un informe técnico debe contener los siguientes apartados:
           br
