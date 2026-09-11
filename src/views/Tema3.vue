@@ -24,7 +24,7 @@
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 2.
             span  Tipos de infraestructura en una organización
-          img.rounded-3(src="@/assets/curso/temas/t3/img0.png", alt="Ilustración isométrica de un complejo de infraestructura crítica que integra un edificio administrativo, un centro de datos, instalaciones de servicios esenciales, áreas de acceso y transporte, estacionamientos, caseta de control, zonas verdes y una plataforma de soporte para emergencias con helipuerto y equipos de respaldo. El diseño identifica los principales componentes de infraestructura física, tecnológica, de servicios y respuesta ante emergencias.", style="width: 100%; height: 100%; object-fit: cover;")
+          img.rounded-3(src="@/assets/curso/temas/t3/img0.png", alt="Ilustración isométrica de un complejo de infraestructura crítica que integra un edificio administrativo, un centro de datos, instalaciones de servicios esenciales, áreas de acceso y transporte, estacionamientos, caseta de control, zonas verdes y una plataforma de soporte para emergencias con helipuerto y equipos de respaldo. El diseño identifica los principales componentes de infraestructura física, tecnológica, de servicios y respuesta ante emergencias.", style="width: 100%;")
       //- Inicio Accordion 1
       .row(data-aos="fade-right")
         .bg--img_03.mt-5

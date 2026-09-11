@@ -6,7 +6,7 @@
         .titulo-principal__numero
           span 7
         h1 Mitigación en la seguridad privada
-      p(data-aos="fade-left") La mitigación constituye una etapa esencial del ciclo de gestión del riesgo. Comprende las acciones dirigidas a reducir la probabilidad de ocurrencia de un evento, disminuir sus consecuencias o intervenir ambos factores.
+      p(data-aos="fade-left") La mitigación constituye una etapa esencial del ciclo de gestión del riesgo. Comprende las acciones dirigidas a reducir la probabilidad de ocurrencia de un evento, disminuir sus consecuencias o intervenir en ambos factores.
       p(data-aos="fade-left") En seguridad privada, estas acciones pueden incluir el refuerzo de accesos, la actualización de procedimientos, la incorporación de sistemas tecnológicos, la capacitación del personal y la preparación para emergencias.
       .row.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-9.order-2.order-lg-1
@@ -148,10 +148,10 @@
               span <b>Simulacros de evacuación y emergencia:</b> recrean situaciones como incendios, amenazas de bomba o fenómenos naturales para evaluar la rapidez, la coordinación y la eficacia de la respuesta. 
             li.d-flex.mb-2
               i.fas.fa-check-circle.me-3
-              span <b>Pruebas de intrusión (Red Team/Blue Team):</b> evalúan las defensas físicas o digitales mediante equipos que asumen funciones de ataque y respuesta controlada, con el propósito de identificar fallas en los controles y procedimientos. 
+              span <b>Pruebas de intrusión (<i>Red Team/Blue Team</i>):</b> evalúan las defensas físicas o digitales mediante equipos que asumen funciones de ataque y respuesta controlada, con el propósito de identificar fallas en los controles y procedimientos.
             li.d-flex.mb-2
               i.fas.fa-check-circle.me-3
-              span <b>Ejercicios de análisis de escenarios (tabletop exercises):</b> desarrollan discusiones guiadas sobre situaciones hipotéticas para evaluar la toma de decisiones, la coordinación y la aplicación del plan de emergencia. 
+              span <b>Ejercicios de análisis de escenarios (<i>tabletop exercises</i>):</b> desarrollan discusiones guiadas sobre situaciones hipotéticas para evaluar la toma de decisiones, la coordinación y la aplicación del plan de emergencia. 
             li.d-flex.mb-2
               i.fas.fa-check-circle.me-3
               span <b>Capacitación continua:</b> actualiza al personal sobre nuevos riesgos, procedimientos, controles y el uso adecuado de la tecnología de seguridad.

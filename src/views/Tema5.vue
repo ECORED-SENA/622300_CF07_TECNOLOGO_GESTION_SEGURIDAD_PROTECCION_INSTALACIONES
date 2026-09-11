@@ -91,7 +91,7 @@
           ul.lista-ul.color-vinotinto-custom.mb-0
             li.d-flex.mb-2
               i.fas.fa-check-circle.me-3
-              span <b>Registro inmediato:</b> documentar oportunamente el incidente en la bitácora o en el informe correspondiente
+              span <b>Registro inmediato:</b> documentar oportunamente el incidente en la bitácora o en el informe correspondiente.
             li.d-flex.mb-2
               i.fas.fa-check-circle.me-3
               span <b>Aplicación de protocolos:</b> activar los procedimientos de contención, comunicación y atención establecidos por la organización.
@@ -162,7 +162,7 @@
                   img(src='@/assets/curso/temas/t5/tarjeta03_6.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Errores humanos
-                p Errores humanos
+                p Se producen por acciones u omisiones involuntarias, como la pérdida de dispositivos, la configuración incorrecta de equipos o el envío de información confidencial a destinatarios equivocados.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -205,7 +205,7 @@
         .col-lg-12
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/4VCNKMKrWok?si=OkLyLFAaverpL32v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
@@ -220,7 +220,7 @@
               .row(titulo="Cualitativa")
                 p.mb-4 Utiliza categorías descriptivas, como <b>bajo, medio, alto o crítico,</b> para valorar el riesgo. Es apropiada cuando no se dispone de información estadística y la evaluación se basa en la experiencia del personal y el conocimiento del entorno.
               .row(titulo="Semicuantitativa")
-                p.mb-4 Combina escalas numéricas con categorías descriptivas. Generalmente utiliza valores de <b>1 a 5</b> para la probabilidad y el impacto, calculando el nivel de riesgo mediante la fórmula <b>R = P × I</b>, donde <b>R</b> corresponde al riesgo, <b>P</b> a la probabilidad e <b>I</b> al impacto. Es uno de los métodos más utilizados en seguridad privada porque facilita la comparación y priorización de riesgos.
+                p.mb-4 Combina escalas numéricas con categorías descriptivas. Generalmente, utiliza valores de <b>1 a 5</b> para la probabilidad y el impacto, calculando el nivel de riesgo mediante la fórmula <b>R = P × I</b>, donde <b>R</b> corresponde al riesgo, <b>P</b> a la probabilidad e <b>I</b> al impacto. Es uno de los métodos más utilizados en seguridad privada porque facilita la comparación y priorización de riesgos.
               .row(titulo="Cuantitativa")
                 p.mb-4 Se fundamenta en datos estadísticos, modelos matemáticos y análisis históricos para estimar pérdidas o probabilidades de ocurrencia. Es utilizada principalmente en organizaciones con sistemas avanzados de gestión del riesgo y disponibilidad de información histórica confiable.
           .col-lg-3.mb-5.mb-lg-0
@@ -495,7 +495,7 @@
               img.mx-auto(src='@/assets/curso/temas/t5/tarjeta05_1.svg', alt='', style="width: 90px;")
             .flex-grow-1.d-flex.flex-column.justify-content-center
               h4.mb-3 Riesgo bajo o mínimo
-              p.mb-0 Presenta baja probabilidad de ocurrencia y consecuencias limitadas. Generalmente puede gestionarse mediante procedimientos rutinarios.
+              p.mb-0 Presenta baja probabilidad de ocurrencia y consecuencias limitadas. Generalmente, puede gestionarse mediante procedimientos rutinarios.
         .col-12.col-sm-6.col-lg-4.mb-4
           .tarjeta--boton.color-primario.rounded-4.p-4.h-100.d-flex.flex-column.align-items-center.text-center
             figure.mb-4

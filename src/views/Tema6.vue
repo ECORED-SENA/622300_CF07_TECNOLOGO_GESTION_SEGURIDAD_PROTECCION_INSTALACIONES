@@ -386,7 +386,7 @@
             .row.justify-content-center(data-aos="fade-right")
               .col-lg-10.bg-color-2.p-5.rounded-4
                 h5 Ejemplo
-                p Durante la inspección de una instalación se identifica el riesgo de intrusión por el portón vehicular. Después de evaluar las condiciones del lugar, se asigna una probabilidad de 4 (frecuente) y un impacto de 5 (catastrófico), obteniendo una puntuación de 20, clasificada como un riesgo alto o crítico. La siguiente tabla presenta  la ubicación de este riesgo dentro de la matriz.
+                p Durante la inspección de una instalación, se identifica el riesgo de intrusión por el portón vehicular. Después de evaluar las condiciones del lugar, se asigna una probabilidad de 4 (frecuente) y un impacto de 5 (catastrófico), obteniendo una puntuación de 20, clasificada como un riesgo alto o crítico. La siguiente tabla presenta  la ubicación de este riesgo dentro de la matriz.
                 //- Inicio Tabla
                 .row.justify-content-center.mb-5
                   .col-md-auto.col-lg-12
@@ -507,7 +507,7 @@
       //- Pestanas horizontales
       .container.tarjeta.tarjeta--blanca.p-4.p-md-5(data-aos="fade-right")
         TabsC.color-acento-contenido.mt-1
-          .py-3.py-md-4(titulo="Escenarios públicos")
+          .py-3.py-md-4(titulo="Alta")
             .row.align-items-center
               .col-md-6
                 figure
@@ -516,7 +516,7 @@
                 h4 Alta
                 p Existe una deficiencia grave o ausencia total de controles. 
                 p <b>Ejemplo:</b> los accesos principales no cuentan con iluminación ni cámaras de vigilancia.
-          .py-3.py-md-4(titulo="Escenarios privados")
+          .py-3.py-md-4(titulo="Media")
             .row.align-items-center
               .col-md-6.mb-4.mb-md-0
                 figure
@@ -525,7 +525,7 @@
                 h4 Media
                 p Existen controles parciales, insuficientes o aplicados de manera irregular. 
                 p <b>Ejemplo:</b> el sistema de CCTV funciona, pero no cuenta con monitoreo continuo.
-          .py-3.py-md-4(titulo="Escenarios mixtos (público-privados)")
+          .py-3.py-md-4(titulo="Baja")
             .row.align-items-center
               .col-md-6.mb-4.mb-md-0
                 figure
@@ -632,7 +632,7 @@
             img.h-100.w-100(src='@/assets/curso/temas/t6/img10.png', alt='', style="object-fit: cover;")
         .col-lg-7.bg-color-2.d-flex.flex-column.justify-content-center.p-4
           p.fw-bold.mb-2 Ejemplo
-          p.mb-3 Durante una inspección en una empresa de transporte de valores se identifica que la zona de carga no cuenta con doble control de acceso ni blindaje lateral. El hallazgo se clasifica como una vulnerabilidad alta.
+          p.mb-3 Durante una inspección en una empresa de transporte de valores, se identifica que la zona de carga no cuenta con doble control de acceso ni blindaje lateral. El hallazgo se clasifica como una vulnerabilidad alta.
           p Como medidas de intervención, se propone reforzar la estructura, implementar un segundo mecanismo de control y actualizar el protocolo de revisión de vehículos. La inspección sistemática permite convertir los hallazgos del entorno en acciones concretas de protección y mejora.
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")

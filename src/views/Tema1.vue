@@ -145,13 +145,13 @@
               h4.mb-3 Priorización con recursos limitados
               p.mb-0 Resolver simulaciones que impliquen responder a múltiples alarmas o incidentes de manera simultánea.
       //- Fin Tarjetas
-      p(data-aos="fade-left") Finalmente, la evaluación debe fundamentarse tanto en los resultados obtenidos, como las soluciones propuestas, como en los procesos desarrollados, entre ellos la claridad de la argumentación y el uso de evidencias. Este enfoque favorece el desarrollo de criterios profesionales y reduce la adopción de soluciones intuitivas sin sustento.      
+      p(data-aos="fade-left") Finalmente, la evaluación debe fundamentarse tanto en los resultados obtenidos como en las soluciones propuestas, como en los procesos desarrollados, entre ellos la claridad de la argumentación y el uso de evidencias. Este enfoque favorece el desarrollo de criterios profesionales y reduce la adopción de soluciones intuitivas sin sustento.      
       Separador
       //- Inicio Tema1.2
       .row
         #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 1.2 Fundamentos y desarrollo de la atención y la percepción
-      p.mb-4(data-aos="fade-left") En este apartado se analizan el funcionamiento de la atención, entendida como la focalización consciente sobre estímulos relevantes, y la percepción, concebida como la interpretación de los estímulos del entorno dentro de las operaciones de seguridad. Asimismo, se abordan los factores que favorecen o limitan estos procesos, las formas de entrenamiento, los errores cognitivos más frecuentes y su impacto en el desempeño del vigilante o supervisor. Comprender estos fundamentos permite fortalecer la vigilancia, mejorar la detección de anomalías y reducir los riesgos operativos.
+      p.mb-4(data-aos="fade-left") En este apartado se analiza el funcionamiento de la atención, entendida como la focalización consciente sobre estímulos relevantes, y la percepción, concebida como la interpretación de los estímulos del entorno dentro de las operaciones de seguridad. Asimismo, se abordan los factores que favorecen o limitan estos procesos, las formas de entrenamiento, los errores cognitivos más frecuentes y su impacto en el desempeño del vigilante o supervisor. Comprender estos fundamentos permite fortalecer la vigilancia, mejorar la detección de anomalías y reducir los riesgos operativos.
       .row.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-9.order-2.order-lg-1
           .row.g-0.align-items-stretch.bg-color-2.mb-4

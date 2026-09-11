@@ -18,7 +18,7 @@
         .col-lg-12
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/OfhQNEyIxns?si=-y8zYvd2e_Xc83yC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       p(data-aos="fade-left") Los riesgos pueden clasificarse desde diferentes perspectivas, según su origen, el ámbito donde se presentan y el nivel de impacto que generan.
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
@@ -628,7 +628,7 @@
             img.h-100.w-100(src='@/assets/curso/temas/t4/img7.png', alt='', style="object-fit: cover;")
         .col-lg-7.bg-color-2.d-flex.flex-column.justify-content-center.p-4
           p.fw-bold.mb-2 Ejemplo
-          p Durante una inspección en una bodega de alimentos se detecta que un extintor obstruye una salida de emergencia. En este caso, el peligro es de tipo físico, ya que dificulta la evacuación rápida de las personas durante una emergencia. La medida correctiva consiste en reubicar el extintor en un lugar que no interfiera con la ruta de evacuación, señalizar adecuadamente el área y verificar que la salida permanezca libre de obstáculos.
+          p Durante una inspección en una bodega de alimentos, se detecta que un extintor obstruye una salida de emergencia. En este caso, el peligro es de tipo físico, ya que dificulta la evacuación rápida de las personas durante una emergencia. La medida correctiva consiste en reubicar el extintor en un lugar que no interfiera con la ruta de evacuación, señalizar adecuadamente el área y verificar que la salida permanezca libre de obstáculos.
           
 </template>
 
