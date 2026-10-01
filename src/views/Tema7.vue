@@ -266,7 +266,7 @@
               h4.mb-2 Planificación de la respuesta frente a riesgos identificados 
               p.mb-0 Se invita a leer el documento Planificación de la respuesta frente a riesgos identificados, donde se aborda la forma de planificar y organizar la respuesta ante los riesgos previamente identificados y valorados.
             .mt-3.mt-lg-0.ps-lg-4            
-              a.btn.btn-custom-download.w-buttons.d-flex.align-items-center.justify-content-center.p-3(:href="obtenerLink('/downloads/Anexos/Anexo_Planificación_Respuesta_Frente_Riesgos_Identificados.pdf')" target="_blank")
+              a.btn.btn-custom-download.w-buttons.d-flex.align-items-center.justify-content-center.p-3(:href="obtenerLink('/downloads/Anexos/Anexo_02_Planificación_Respuesta_Frente_Riesgos_Identificados.pdf')" target="_blank")
                 span.fw-bold.me-2.text-white Descargar
                 i.fas.fa-file-download.text-white
 

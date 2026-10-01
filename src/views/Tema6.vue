@@ -232,7 +232,7 @@
               h4.mb-2 Matriz de riesgos aplicada a la seguridad privada
               p.mb-0 <b>Se invita a leer el documento Matriz de riesgos aplicada a la seguridad privada</b>, donde se aborda el procedimiento para identificar, evaluar, priorizar y controlar los riesgos en operaciones de seguridad privada.
             .mt-3.mt-lg-0.ps-lg-4            
-              a.btn.btn-custom-download.w-buttons.d-flex.align-items-center.justify-content-center.p-3(:href="obtenerLink('/downloads/Anexos/Anexo_Matriz_Riesgos_Aplicada_Seguridad_Privada.pdf')" target="_blank")
+              a.btn.btn-custom-download.w-buttons.d-flex.align-items-center.justify-content-center.p-3(:href="obtenerLink('/downloads/Anexos/Anexo_01_Matriz_Riesgos_Aplicada_Seguridad_Privada.pdf')" target="_blank")
                 span.fw-bold.me-2.text-white Descargar
                 i.fas.fa-file-download.text-white
       //- Título nivel 3 - Imagen

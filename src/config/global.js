@@ -251,7 +251,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/622300_CF07_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -377,11 +377,6 @@ export default {
             'Profesional 06  <br> Responsable Ecosistema Virtual de Recursos Educativos Digitales  ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
-        {
-          nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
-        },
       ],
     },
     {
@@ -458,25 +453,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Ricardo Oliveros Zambrano ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Aixa Natalia Sendoya Fernández ',
+          nombre: 'Ricardo Oliveros Zambrano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez ',
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Anyerson Wilfredo Pizo Ossa ',
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
